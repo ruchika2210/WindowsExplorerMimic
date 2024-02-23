@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.723,=\\buffalo_nas\CCS_Source\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.638,=\\buffalo_nas\CCS_Source\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.231,=\\buffalo_nas\CCS_Source\Unit1.pas</Transaction>
+    <Transaction>2024-02-23 13:20:16.746,=\\buffalo_nas\CCS_Source\Unit1.pas</Transaction>
+    <Transaction>2024-02-23 13:43:29.152,Q:\CCS MIMER\Ruchika\WindowExplorerDelphi\Unit1.pas=\\buffalo_nas\CCS_Source\Unit1.pas</Transaction>
+    <Transaction>2024-02-23 13:43:29.152,Q:\CCS MIMER\Ruchika\WindowExplorerDelphi\Unit1.dfm=\\buffalo_nas\CCS_Source\Unit1.dfm</Transaction>
+    <Transaction>2024-02-23 13:43:49.450,Q:\CCS MIMER\Ruchika\WindowExplorerDelphi\WindowExplorerDelphi.dproj=\\buffalo_nas\CCS_Source\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
